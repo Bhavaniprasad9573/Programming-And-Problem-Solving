@@ -1,0 +1,55 @@
+    1  git -- help
+    2  git --help
+    3  pwd   
+    4  ls
+    5  cd Desktop
+    6  pwd
+    7  pwd
+    8  ls
+    9  cd Desktop/Problem Solving andProgramming
+   10  cd ProblemSolvingandProgramming
+   11  CD
+   12  cd
+   13  cd Desktop
+   14  ls
+   15  rm -rf Problem\ SolvingAndProgramming/
+   16  cd
+   17  cd Desktop
+   18  ls
+   19  rm -rf ProblemSolvingAndProgramming/
+   20  mv Pro
+   21  cd
+   22  cd desktop
+   23  cd
+   24  cd Desktop
+   25  ls
+   26  rm -rf ProblemSolvingAndProgramminf/
+   27  ls
+   28  ls
+   29  pwd
+   30  cd Desktop
+   31  cd ProblemSolvingAndProgramming/
+   32  cd git
+   33  touch file{2..10}.txt
+   34  ls
+   35  touch file{11..100}
+   36  ls
+   37  touch file{11..100}.txt
+   38  ls
+   39  rm file{11..100}
+   40  ls
+   41  rm file{11..100}.txt
+   42  ls
+   43  git status
+   44  git add file{2..10}.txt
+   45  git status
+   46  git reset HEAD file{2..10}.txt
+   47  git status
+   48  git add file{2..10}.txt
+   49  git status
+   50  git commit -m "added 9 files"
+   51  git clone https://github.com/Akash-Sinha/Gitam-Skill-Enhancement-May-2019/tree/master/PythonProgramming/NotebookTemplate
+   52  git clone https://github.com/Akash-Sinha/Gitam-Skill-Enhancement-May-2019
+   53  git log
+   54  history 100
+   55  history 100 > git-commands.txt
